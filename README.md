@@ -1,3 +1,13 @@
+> ### This repository has moved
+>
+> The PC tool now lives in the combined repository, alongside the
+> PlayStation 2 and PC ones:
+>
+> **https://github.com/BRAGme/TomClancyModStudio** — in [`pc/`](https://github.com/BRAGme/TomClancyModStudio/tree/master/pc)
+>
+> This repository is archived and read-only. Its full history came across
+> with the move, and the v1.0 release below still works.
+
 # Tom Clancy PC Mod Studio
 
 A skinned mod manager for seven Tom Clancy games on PC. Same window as the
